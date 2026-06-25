@@ -74,4 +74,16 @@ Sharing my Leetcode solutions here...
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0437-path-sum-iii) |
+## Design
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0933-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
