@@ -17,6 +17,7 @@ Sharing my Leetcode solutions here...
 ## Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -95,4 +96,12 @@ Sharing my Leetcode solutions here...
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0002-add-two-numbers) |
+## Two Pointers
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
