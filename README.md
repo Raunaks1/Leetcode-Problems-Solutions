@@ -19,6 +19,7 @@ Sharing my Leetcode solutions here...
 | ------- |
 | [0075-sort-colors](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -106,8 +107,13 @@ Sharing my Leetcode solutions here...
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Enumeration
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Greedy
+|  |
+| ------- |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 <!---LeetCode Topics End-->
