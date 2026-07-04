@@ -83,6 +83,7 @@ Sharing my Leetcode solutions here...
 |  |
 | ------- |
 | [0437-path-sum-iii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0437-path-sum-iii) |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
@@ -144,11 +145,13 @@ Sharing my Leetcode solutions here...
 ## Breadth-First Search
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Heap (Priority Queue)
 |  |
@@ -164,6 +167,7 @@ Sharing my Leetcode solutions here...
 ## Graph Theory
 |  |
 | ------- |
+| [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Shortest Path
