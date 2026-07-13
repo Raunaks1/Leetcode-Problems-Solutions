@@ -140,6 +140,7 @@ Sharing my Leetcode solutions here...
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 ## Greedy
 |  |
