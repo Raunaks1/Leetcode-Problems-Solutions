@@ -65,6 +65,7 @@ Sharing my Leetcode solutions here...
 | [0002-add-two-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0002-add-two-numbers) |
 | [1201-ugly-number-iii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1201-ugly-number-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -93,6 +94,7 @@ Sharing my Leetcode solutions here...
 | ------- |
 | [1201-ugly-number-iii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1201-ugly-number-iii) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Tree
 |  |
 | ------- |
