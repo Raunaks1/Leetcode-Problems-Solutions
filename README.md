@@ -161,6 +161,7 @@ Sharing my Leetcode solutions here...
 | ------- |
 | [1291-sequential-digits](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1291-sequential-digits) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Greedy
 |  |
 | ------- |
@@ -183,6 +184,7 @@ Sharing my Leetcode solutions here...
 | [0087-scramble-string](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0093-restore-ip-addresses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Backtracking
 |  |
