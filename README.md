@@ -25,6 +25,7 @@ Sharing my Leetcode solutions here...
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
 | [1260-shift-2d-grid](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1260-shift-2d-grid) |
@@ -151,12 +152,14 @@ Sharing my Leetcode solutions here...
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
 | [1288-remove-covered-intervals](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1331-rank-transform-of-an-array) |
