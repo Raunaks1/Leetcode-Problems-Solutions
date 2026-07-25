@@ -73,6 +73,7 @@ Sharing my Leetcode solutions here...
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0009-palindrome-number) |
 | [1201-ugly-number-iii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1201-ugly-number-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
