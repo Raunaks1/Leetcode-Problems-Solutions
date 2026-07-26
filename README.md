@@ -28,6 +28,7 @@ Sharing my Leetcode solutions here...
 | [0015-3sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1301-number-of-paths-with-max-score) |
@@ -75,6 +76,7 @@ Sharing my Leetcode solutions here...
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0009-palindrome-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1201-ugly-number-iii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1201-ugly-number-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -161,6 +163,7 @@ Sharing my Leetcode solutions here...
 | ------- |
 | [0015-3sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
