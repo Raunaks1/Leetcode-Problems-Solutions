@@ -51,6 +51,7 @@ Sharing my Leetcode solutions here...
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -77,6 +78,7 @@ Sharing my Leetcode solutions here...
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0013-roman-to-integer) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1201-ugly-number-iii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1201-ugly-number-iii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -197,6 +199,7 @@ Sharing my Leetcode solutions here...
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0013-roman-to-integer) |
 | [0087-scramble-string](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0087-scramble-string) |
 | [0093-restore-ip-addresses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0093-restore-ip-addresses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
