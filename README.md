@@ -49,6 +49,7 @@ Sharing my Leetcode solutions here...
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -68,6 +69,7 @@ Sharing my Leetcode solutions here...
 | [0013-roman-to-integer](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0013-roman-to-integer) |
 | [1331-rank-transform-of-an-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -275,6 +277,7 @@ Sharing my Leetcode solutions here...
 | ------- |
 | [1260-shift-2d-grid](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1301-number-of-paths-with-max-score) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
