@@ -50,6 +50,7 @@ Sharing my Leetcode solutions here...
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -121,6 +122,7 @@ Sharing my Leetcode solutions here...
 ## Segment Tree
 |  |
 | ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Merge Sort
@@ -239,6 +241,7 @@ Sharing my Leetcode solutions here...
 | [0093-restore-ip-addresses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0093-restore-ip-addresses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -340,4 +343,8 @@ Sharing my Leetcode solutions here...
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1510-stone-game-iv) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
