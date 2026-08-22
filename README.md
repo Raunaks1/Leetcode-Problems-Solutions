@@ -120,6 +120,7 @@ Sharing my Leetcode solutions here...
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3700-number-of-zigzag-arrays-ii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
