@@ -70,6 +70,7 @@ Sharing my Leetcode solutions here...
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
@@ -86,6 +87,7 @@ Sharing my Leetcode solutions here...
 | [3312-sorted-gcd-pair-queries](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Binary Search
