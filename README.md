@@ -38,6 +38,7 @@ Sharing my Leetcode solutions here...
 | ------- |
 | [0015-3sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
+| [0047-permutations-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
 | [0486-predict-the-winner](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -224,6 +225,7 @@ Sharing my Leetcode solutions here...
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0015-3sum) |
+| [0047-permutations-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1288-remove-covered-intervals) |
@@ -290,6 +292,7 @@ Sharing my Leetcode solutions here...
 ## Backtracking
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0047-permutations-ii) |
 | [0093-restore-ip-addresses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0093-restore-ip-addresses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Breadth-First Search
