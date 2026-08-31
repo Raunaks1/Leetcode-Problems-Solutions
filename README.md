@@ -119,6 +119,7 @@ Sharing my Leetcode solutions here...
 | [0002-add-two-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0877-stone-game) |
@@ -211,6 +212,7 @@ Sharing my Leetcode solutions here...
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0002-add-two-numbers) |
+| [0060-permutation-sequence](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0486-predict-the-winner) |
 ## Two Pointers
 |  |
