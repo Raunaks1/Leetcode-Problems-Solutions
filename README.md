@@ -8,6 +8,7 @@ Sharing my Leetcode solutions here...
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0087-scramble-string](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0091-decode-ways) |
 | [0486-predict-the-winner](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1140-stone-game-ii) |
@@ -282,6 +283,7 @@ Sharing my Leetcode solutions here...
 | ------- |
 | [0013-roman-to-integer](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0013-roman-to-integer) |
 | [0087-scramble-string](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0087-scramble-string) |
+| [0091-decode-ways](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0093-restore-ip-addresses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1927-sum-game](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1927-sum-game) |
