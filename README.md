@@ -196,11 +196,13 @@ Sharing my Leetcode solutions here...
 | ------- |
 | [0113-path-sum-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0437-path-sum-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0437-path-sum-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2685-count-the-number-of-complete-components) |
 ## Binary Tree
@@ -208,6 +210,7 @@ Sharing my Leetcode solutions here...
 | ------- |
 | [0113-path-sum-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0113-path-sum-ii) |
 | [0437-path-sum-iii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0437-path-sum-iii) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Design
 |  |
 | ------- |
