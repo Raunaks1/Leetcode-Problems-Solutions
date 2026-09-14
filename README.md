@@ -138,6 +138,7 @@ Sharing my Leetcode solutions here...
 | [0060-permutation-sequence](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0060-permutation-sequence) |
 | [0486-predict-the-winner](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1140-stone-game-ii) |
 | [1201-ugly-number-iii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1201-ugly-number-iii) |
@@ -443,4 +444,8 @@ Sharing my Leetcode solutions here...
 |  |
 | ------- |
 | [1994-the-number-of-good-subsets](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1994-the-number-of-good-subsets) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
