@@ -36,6 +36,7 @@ Sharing my Leetcode solutions here...
 | ------- |
 | [1140-stone-game-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1140-stone-game-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1872-stone-game-viii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3699-number-of-zigzag-arrays-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3699-number-of-zigzag-arrays-i) |
@@ -64,6 +65,7 @@ Sharing my Leetcode solutions here...
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1872-stone-game-viii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -104,6 +106,7 @@ Sharing my Leetcode solutions here...
 | [1331-rank-transform-of-an-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1994-the-number-of-good-subsets](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1994-the-number-of-good-subsets) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -124,6 +127,7 @@ Sharing my Leetcode solutions here...
 | ------- |
 | [1201-ugly-number-iii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1201-ugly-number-iii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -135,6 +139,7 @@ Sharing my Leetcode solutions here...
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Math
