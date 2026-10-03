@@ -7,6 +7,7 @@ Sharing my Leetcode solutions here...
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [0087-scramble-string](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0091-decode-ways) |
@@ -327,6 +328,7 @@ Sharing my Leetcode solutions here...
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0042-trapping-rain-water) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -344,6 +346,7 @@ Sharing my Leetcode solutions here...
 | [0013-roman-to-integer](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [0087-scramble-string](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0093-restore-ip-addresses) |
@@ -508,6 +511,7 @@ Sharing my Leetcode solutions here...
 | ------- |
 | [0020-valid-parentheses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
