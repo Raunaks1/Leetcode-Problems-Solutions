@@ -105,6 +105,7 @@ Sharing my Leetcode solutions here...
 | [3620-network-recovery-pathways](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3620-network-recovery-pathways) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -309,6 +310,7 @@ Sharing my Leetcode solutions here...
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3731-find-missing-elements) |
 ## Enumeration
 |  |
@@ -338,6 +340,7 @@ Sharing my Leetcode solutions here...
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Stack
 |  |
 | ------- |
