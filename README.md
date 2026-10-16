@@ -85,6 +85,7 @@ Sharing my Leetcode solutions here...
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -126,6 +127,7 @@ Sharing my Leetcode solutions here...
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
@@ -208,6 +210,7 @@ Sharing my Leetcode solutions here...
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -561,4 +564,5 @@ Sharing my Leetcode solutions here...
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 <!---LeetCode Topics End-->
