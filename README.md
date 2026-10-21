@@ -428,6 +428,7 @@ Sharing my Leetcode solutions here...
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
 | ------- |
