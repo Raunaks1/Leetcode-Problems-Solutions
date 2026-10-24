@@ -195,6 +195,7 @@ Sharing my Leetcode solutions here...
 | [1927-sum-game](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1927-sum-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1994-the-number-of-good-subsets](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1994-the-number-of-good-subsets) |
+| [2409-count-days-spent-together](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2409-count-days-spent-together) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -417,6 +418,7 @@ Sharing my Leetcode solutions here...
 | [1927-sum-game](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2409-count-days-spent-together](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
