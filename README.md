@@ -31,6 +31,7 @@ Sharing my Leetcode solutions here...
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3620-network-recovery-pathways](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3620-network-recovery-pathways) |
@@ -105,6 +106,7 @@ Sharing my Leetcode solutions here...
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -152,6 +154,7 @@ Sharing my Leetcode solutions here...
 | [3312-sorted-gcd-pair-queries](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3483-unique-3-digit-even-numbers) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -182,6 +185,7 @@ Sharing my Leetcode solutions here...
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Math
 |  |
 | ------- |
@@ -211,6 +215,7 @@ Sharing my Leetcode solutions here...
 | [3312-sorted-gcd-pair-queries](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -494,6 +499,7 @@ Sharing my Leetcode solutions here...
 | [2333-minimum-sum-of-squared-difference](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3620-network-recovery-pathways](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3620-network-recovery-pathways) |
 ## Matrix
 |  |
