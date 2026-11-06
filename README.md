@@ -91,6 +91,7 @@ Sharing my Leetcode solutions here...
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
@@ -145,6 +146,7 @@ Sharing my Leetcode solutions here...
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1994-the-number-of-good-subsets](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1994-the-number-of-good-subsets) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2747-count-zero-request-servers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -184,6 +186,7 @@ Sharing my Leetcode solutions here...
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2747-count-zero-request-servers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2875-minimum-size-subarray-in-infinite-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2875-minimum-size-subarray-in-infinite-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -357,6 +360,7 @@ Sharing my Leetcode solutions here...
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2747-count-zero-request-servers) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
