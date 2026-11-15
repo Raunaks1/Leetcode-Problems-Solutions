@@ -14,6 +14,7 @@ Sharing my Leetcode solutions here...
 | [0115-distinct-subsequences](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0115-distinct-subsequences) |
 | [0486-predict-the-winner](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0730-count-different-palindromic-subsequences](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0877-stone-game](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1140-stone-game-ii) |
@@ -459,6 +460,7 @@ Sharing my Leetcode solutions here...
 | [0115-distinct-subsequences](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0115-distinct-subsequences) |
 | [0301-remove-invalid-parentheses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0678-valid-parenthesis-string) |
+| [0730-count-different-palindromic-subsequences](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0730-count-different-palindromic-subsequences) |
 | [0856-score-of-parentheses](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0940-distinct-subsequences-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0940-distinct-subsequences-ii) |
