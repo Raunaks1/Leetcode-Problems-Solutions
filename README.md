@@ -48,6 +48,7 @@ Sharing my Leetcode solutions here...
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1140-stone-game-ii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -81,6 +82,7 @@ Sharing my Leetcode solutions here...
 | [1288-remove-covered-intervals](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1406-stone-game-iii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -227,6 +229,7 @@ Sharing my Leetcode solutions here...
 | [0877-stone-game](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1140-stone-game-ii) |
 | [1201-ugly-number-iii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1201-ugly-number-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1406-stone-game-iii](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1510-stone-game-iv) |
@@ -339,6 +342,7 @@ Sharing my Leetcode solutions here...
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -348,6 +352,7 @@ Sharing my Leetcode solutions here...
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Raunaks1/Leetcode-Problems-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Linked List
 |  |
 | ------- |
